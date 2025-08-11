@@ -7,7 +7,7 @@ public class MainAppXML {
     public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("ApplicationContext.xml");
 
-        UserService person = (UserService) context.getBean("personService");
+        UserService person = (UserService) context.getBean("personServiceCore");
         UserService manager = (UserService) context.getBean("managerService");
 
         person.save("Ahmed");
