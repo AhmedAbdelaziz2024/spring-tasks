@@ -49,10 +49,7 @@ public class teacher {
     }
 
     public void setAge(int age) {
-        if (age < 15 || age > 20) {
-            throw new IllegalArgumentException("age must be between 15 and 20");
-        }
-        this.age = age;
+       this.age = age;
     }
 
     public String getAddress() {
@@ -63,3 +60,4 @@ public class teacher {
         this.address = address;
     }
 }
+
