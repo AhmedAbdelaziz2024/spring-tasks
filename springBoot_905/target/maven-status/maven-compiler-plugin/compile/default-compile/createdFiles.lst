@@ -1,0 +1,17 @@
+com\springboot\dto\EmailDTO.class
+com\springboot\model\Employee.class
+com\springboot\service\EmployeeService.class
+com\springboot\model\Email.class
+com\springboot\mapper\EmailMapper.class
+com\springboot\service\EmailService.class
+com\springboot\repository\EmployeeRepo.class
+com\springboot\mapper\EmailMapperImpl.class
+com\springboot\controller\EmployeeController.class
+com\springboot\mapper\EmployeeMapperImpl.class
+com\springboot\repository\EmailRepo.class
+com\springboot\controller\EmailController.class
+com\springboot\service\serviceImpl\EmployeeServiceImpl.class
+com\springboot\mapper\EmployeeMapper.class
+com\springboot\service\serviceImpl\EmailServiceImpl.class
+com\springboot\SpringBoot905Application.class
+com\springboot\dto\EmployeeDTO.class

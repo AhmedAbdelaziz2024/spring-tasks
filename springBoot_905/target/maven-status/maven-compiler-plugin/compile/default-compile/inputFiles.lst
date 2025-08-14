@@ -1,0 +1,15 @@
+E:\springBoot_905\src\main\java\com\springboot\controller\EmailController.java
+E:\springBoot_905\src\main\java\com\springboot\controller\EmployeeController.java
+E:\springBoot_905\src\main\java\com\springboot\dto\EmailDTO.java
+E:\springBoot_905\src\main\java\com\springboot\dto\EmployeeDTO.java
+E:\springBoot_905\src\main\java\com\springboot\mapper\EmailMapper.java
+E:\springBoot_905\src\main\java\com\springboot\mapper\EmployeeMapper.java
+E:\springBoot_905\src\main\java\com\springboot\model\Email.java
+E:\springBoot_905\src\main\java\com\springboot\model\Employee.java
+E:\springBoot_905\src\main\java\com\springboot\repository\EmailRepo.java
+E:\springBoot_905\src\main\java\com\springboot\repository\EmployeeRepo.java
+E:\springBoot_905\src\main\java\com\springboot\service\EmailService.java
+E:\springBoot_905\src\main\java\com\springboot\service\EmployeeService.java
+E:\springBoot_905\src\main\java\com\springboot\service\serviceImpl\EmailServiceImpl.java
+E:\springBoot_905\src\main\java\com\springboot\service\serviceImpl\EmployeeServiceImpl.java
+E:\springBoot_905\src\main\java\com\springboot\SpringBoot905Application.java
